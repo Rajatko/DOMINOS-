@@ -1,0 +1,256 @@
+.header{
+        height: 1000px;
+        width: 100%;
+        background-image: url('20.avif');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.nav{
+      
+        width: 100%;
+        height: 70px;
+        background-color:blue;
+}
+img{
+        margin-top: 10px;
+        margin-left: 70px;
+}
+.list{
+        display: inline-block;
+        list-style-type: style none;
+        padding: 2px 2px;
+        margin-left: 20px;
+}
+.a{
+        color: wheat;
+        font-size: 17px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+a:hover{
+        color: red;
+}
+.button{
+        padding-top: 12px;
+        margin-left: 70px;
+        height: 43px;
+        width: 120px;
+        border-radius: 5px;
+        background-color: red;
+        cursor: pointer;
+}
+#button1:hover{
+        background-color: wheat;
+}
+
+.second{
+
+        height: 38px;
+        width: 100%;
+        background-color:rgb(46, 46, 143)
+}
+.li1{
+display: inline-block;
+margin-left: 20px;
+}
+a{
+        color: wheat;
+        font-size: 12px;
+}
+.third{
+        height: 30px;
+        width: 100%;
+        background-color:rgb(201, 176, 176);
+}
+li{
+        display:inline-block;
+}
+.nine{
+        color: blue;
+        font-size: 19px;
+        padding:1px 2px;
+}
+.four{
+        background-image: url('hell.webp');
+        height: 200px;
+        width: 100%;
+        background-size: cover;
+}
+h2{
+        font-size: 35px;
+        color: red;
+}
+.container{
+        height: 490px;
+        width: 100%;
+  background-color: aqua;      
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-image: url('bacj.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.items{ 
+        color:wheat;
+        font-size: 30px;
+        margin: auto;
+        text-align: center;
+        height: 470px;
+        width: 400px;
+        padding :2px;
+        margin-top:10px;
+}
+.img{
+        margin-right: 50px;
+}
+.para{
+        color: wheat;
+        font-size: 15px;
+}
+.twel{
+        background-color: red;
+        color: wheat;
+        height: 30px;
+        width: 150px;
+        font-size: 25px;
+        cursor: pointer;
+}
+.contain{
+
+        height: 500px;
+        width: 800px;
+        display: flex;
+text-align: center;
+background-image: url('bacj.png');
+background-repeat: no-repeat;
+background-size:cover;
+}
+.ite{
+     font-size: 30px;
+     color:wheat;
+        height: 470px;
+        width: 400px;
+       font-size: 20px;
+}
+.fre{
+        margin-right: 60px;
+}
+#h2{
+        color:rgb(4, 74, 97)
+}
+summary {
+        font-size: 1.25rem;
+        font-weight: 600;
+        background-color: #fff;
+        color: #333;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        outline: none;
+        border-radius: 0.25rem;
+        text-align: left;
+        cursor: pointer;
+        position: relative;
+      }
+   .con{
+        height: 70px;
+        width: 100%;
+   }
+   .vat{
+        padding: 20px;
+        margin: auto;
+        cursor: pointer;
+   }
+   #sum{
+        color:darkblue;
+   }
+   #sum:hover{
+        text-decoration: underline;
+   }
+   #sun{
+        color:darkred;
+   }
+   #sun:hover{
+        text-decoration: underline;
+   }
+   .bt{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+   }
+   .foot{
+        background-image: linear-gradient(to left, #eecda3 , #ef629f);
+   }
+   summary{
+        background-image: linear-gradient(to left,#eecda3 , #ef629f);
+   }
+   summary:hover{
+        background-image: linear-gradient(to right, #3a1c71 , #d76d77 , #ffaf7b);
+        color: aliceblue;
+   }
+   button:hover{
+        transform: scale(2);
+   }
+   button{
+        background-color: #d76d77;
+        color:black;
+   }
+   .foo{
+
+        height: 500px;
+        width: 100%;
+        background-color: #222e3a;
+        display: flex;
+   }
+   .if{
+        margin: 19px;
+        padding: 10px;
+        width: 180px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+   }
+   .p{
+        margin-right: 50px;
+        padding: 10px 1px;
+        
+        font-family:sans-serif;
+        color:aliceblue
+   }
+   .d{
+        margin-right: 30px;
+   }
+   .r{
+        margin-right: 30px;
+   }
+   .menu{
+        font-family:sans-serif;
+        color:cadetblue;
+        font-weight:bolder;
+
+   }
+   .s{
+        margin-right: 33px;
+   }
+   .fb{
+        height: 25px;
+        padding: 2px;
+   }
+   .fb:hover{
+       transform: scale(2);
+   }
+   #pf{
+        margin-right: 20px;
+   }
+   .rt{
+        width: 100%;
+        height: 60px;
+        background-color: #02101f;
+        color:grey
+   }
+   .last{
+        direction:rtl;
+        font-weight: bold;
+   }
